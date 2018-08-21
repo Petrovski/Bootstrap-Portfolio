@@ -18,6 +18,16 @@ footer {
     height: 60px;
 }
 
+h1 {
+    color: #4aaaa5;
+}
+
+form {
+    background: white;
+    height: 420px;
+
+}
+
 a.navbar-brand {
     background: #4aaaa5;
     color: white;
@@ -33,4 +43,13 @@ a.navbar-brand {
 
 .container {
     margin-top: 20px;
+}
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
 }
