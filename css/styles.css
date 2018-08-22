@@ -53,3 +53,14 @@ a.navbar-brand {
     border: 1px solid #ddd;
     border-radius: 4px;
 }
+
+.caption {
+    background: #4aaaa5;
+    text-align: center;
+    color: white;
+}
+
+.me {
+    margin-top: 60px;
+    transform: rotate(90deg);
+}
