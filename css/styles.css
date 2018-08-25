@@ -24,6 +24,7 @@ footer {
 
 h1 {
     color: #4aaaa5;
+    margin-top: 15px;
 }
 
 form {
@@ -41,12 +42,17 @@ a.navbar-brand {
     bottom: 0;
 }
 
+div.row.about-me {
+    padding-bottom: 20px;
+}
+
 .about-me {
     background-color: white;
 }
 
 .container {
     margin-top: 20px;
+    padding-bottom: 30px;
 }
 
 .thumbnail {
